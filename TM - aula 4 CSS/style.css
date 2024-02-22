@@ -1,0 +1,28 @@
+p{
+    color: blue;
+    font-size: 10px;
+}
+
+.caixinha1{
+    background-color: bisque;
+}
+
+.caixinha2{
+    background-color: green ;
+}
+
+.texto_grande{
+    font-size: 24px;
+    font-style: italic;
+}
+
+#diferentao{
+    color: cornflowerblue;
+    font-size: 18px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    color: black;
+}

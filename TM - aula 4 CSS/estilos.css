@@ -1,0 +1,37 @@
+.cabecalho{
+    background-color: lightgray;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.lista{
+    list-style: none;
+}
+
+.lista_item{
+    display: inline;
+}
+
+.rodape{
+    background-color: grey;
+}
+
+.texto_rodape{
+    color: white;
+}
+
+
+.artigo1{
+    background-color: bisque;
+}
+
+/* .artigo1 p{
+    color: red;
+} */
+
+h2 + p{
+    color: blue;
+}
+
